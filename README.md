@@ -5,18 +5,6 @@ https://github.com/user-attachments/assets/984a297c-3d13-4271-baf1-7c066b839a92
 
 A full-stack web application designed to track tasks, manage assignments, and monitor project progress. This project features a **RESTful API** backend built with Flask and a dynamic, responsive frontend using vanilla JavaScript and the Fetch API.
 
-STEPS TO RUN : 
-# 1) Create venv
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# Linux/Mac: source .venv/bin/activate
-
-# 2) Install deps
-pip install -r requirements.txt
-
-# 3) Run the app
-python app.py
-
 ##  Features
 
 * **Task Management:** Full CRUD capabilities (Create, Read, Update, Delete) for tasks.
