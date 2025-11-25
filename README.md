@@ -1,3 +1,6 @@
+LOOM VIDEO -
+<!-- Uploading "20251125-0849-01.5868303 (1).mp4"... -->
+
 # Task Tracker Application
 
 A full-stack web application designed to track tasks, manage assignments, and monitor project progress. This project features a **RESTful API** backend built with Flask and a dynamic, responsive frontend using vanilla JavaScript and the Fetch API.
